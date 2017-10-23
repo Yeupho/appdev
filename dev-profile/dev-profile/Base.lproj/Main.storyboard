@@ -61,7 +61,7 @@
                                 </subviews>
                             </stackView>
                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="30" translatesAutoresizingMaskIntoConstraints="NO" id="RLu-gp-lDW">
-                                <rect key="frame" x="82.5" y="254" width="210" height="50"/>
+                                <rect key="frame" x="83" y="254" width="210" height="50"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SFq-uQ-mG4">
                                         <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
@@ -111,13 +111,13 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="45Y-U1-HUt" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="6OH-NZ-U0m"/>
+                            <constraint firstItem="45Y-U1-HUt" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailing" id="6OH-NZ-U0m"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="INV-oq-ePm" secondAttribute="trailing" constant="40" id="6jP-hh-oKT"/>
                             <constraint firstItem="pLc-Dl-7gA" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="15" id="9Yr-aR-3LH"/>
                             <constraint firstItem="3yD-Uc-V0v" firstAttribute="top" secondItem="RLu-gp-lDW" secondAttribute="bottom" constant="20" id="9pS-lG-v3n"/>
                             <constraint firstItem="3yD-Uc-V0v" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="40" id="AXR-aw-Mn3"/>
                             <constraint firstItem="RLu-gp-lDW" firstAttribute="top" secondItem="pLc-Dl-7gA" secondAttribute="bottom" constant="24" id="GIg-kl-kOH"/>
-                            <constraint firstItem="45Y-U1-HUt" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="Hmy-Ez-4ze"/>
+                            <constraint firstItem="45Y-U1-HUt" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="Hmy-Ez-4ze"/>
                             <constraint firstItem="RLu-gp-lDW" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="IQh-xC-0sL"/>
                             <constraint firstItem="pLc-Dl-7gA" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="100" id="Kfj-N4-fLr"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="3yD-Uc-V0v" secondAttribute="trailing" constant="40" id="OpB-vc-lbf"/>
